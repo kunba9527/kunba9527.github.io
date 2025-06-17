@@ -1,97 +1,4 @@
-<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><!-- hexo injector head_begin start -->
-<link rel="stylesheet" href="/css/bilicard.css">
-<style type="text/css">.douban-card-block {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    max-height: 400px;
-}
-
-.douban-card {
-    display: flex;
-    margin: 30px 10px;
-    padding: 15px;
-    border-radius: 15px;
-    position: relative;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
-    color: antiquewhite;
-    text-decoration: none;
-}
-
-.douban-card:hover {
-    text-decoration: none;
-}
-
-.douban-card-bgimg {
-    position: absolute;
-    width: 115%;
-    height: 115%;
-    filter: blur(15px) brightness(0.6);
-    background-size: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-.douban-card-img {
-    position: relative;
-    height: 130px;
-    width: 80px;
-    background-size: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-.douban-card-left:hover .douban-card-img {
-    filter: blur(5px) brightness(0.6);
-    transform: perspective(800px) rotateX(180deg);
-}
-
-.douban-card-left .douban-card-img {
-    transition: all 500ms ease;
-}
-
-.douban-card-left {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.douban-card-left .douban-card-status {
-    height: 130px;
-    width: 80px;
-    text-align: center;
-    font-weight: bold;
-    position: absolute;
-    left: 0;
-    top: 30%;
-    transform: rotateX(180deg);
-    backface-visibility: hidden;
-    transition: all 500ms ease;
-}
-
-.douban-card-left:hover .douban-card-status {
-    transform: perspective(800px) rotateX(0deg);
-}
-
-.douban-card-right {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    margin-left: 12px;
-    font-size: 16px;
-    font-family: "Courier New", Courier, monospace;
-    line-height: 1.3;
-    color: antiquewhite;
-}
-
-.douban-card-item {
-    margin-top: 4px;
-}
-</style><!-- hexo injector head_begin end --><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>nvm 安装与使用 | Works</title><meta name="author" content="Red Signals"><meta name="copyright" content="Red Signals"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="在我们的日常开发中经常会遇到这种情况：手上有好几个项目，每个项目的需求不同，进而不同项目必须依赖不同版的 NodeJS 运行环境。如果没有一个合适的工具，这个问题将非常棘手。 nvm 应运而生，nvm 是 Mac 下的 node 管理工具，有点类似管理 Ruby 的 rvm，如果需要管理 Windows 下的 node，官方推荐使用 nvmw 或 nvm-windows。不过，nvm-window">
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>nvm 安装与使用 | Works</title><meta name="author" content="Red Signals"><meta name="copyright" content="Red Signals"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="在我们的日常开发中经常会遇到这种情况：手上有好几个项目，每个项目的需求不同，进而不同项目必须依赖不同版的 NodeJS 运行环境。如果没有一个合适的工具，这个问题将非常棘手。 nvm 应运而生，nvm 是 Mac 下的 node 管理工具，有点类似管理 Ruby 的 rvm，如果需要管理 Windows 下的 node，官方推荐使用 nvmw 或 nvm-windows。不过，nvm-window">
 <meta property="og:type" content="article">
 <meta property="og:title" content="nvm 安装与使用">
 <meta property="og:url" content="https://kunba9527.github.io/2024/07/11/%E7%BD%91%E7%BB%9C/Github/Github%20Page/Hexo/nvm%20%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/index.html">
@@ -359,7 +266,7 @@ document.addEventListener('pjax:send', () => {
 <hr>
 <h2 id="列出已安装实例"><a href="#列出已安装实例" class="headerlink" title="列出已安装实例"></a>列出已安装实例</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">nvm ls</span><br></pre></td></tr></table></figure>
 
-<p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/works/./../works/img/nvm-ls.png" alt="img"></p>
+<p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="/./../works/img/nvm-ls.png" alt="img"></p>
 <p>上面绿色箭头是当前正在使用的版本，下面列出的还有设置过的别名。</p>
 <hr>
 <h2 id="在项目中使用不同版本的-Node"><a href="#在项目中使用不同版本的-Node" class="headerlink" title="在项目中使用不同版本的 Node"></a>在项目中使用不同版本的 Node</h2><p>我们可以通过创建项目目录中的 <strong>.nvmrc</strong> 文件来指定要使用的 Node 版本。之后在项目目录中执行 <strong>nvm use</strong> 即可。**.nvmrc** 文件内容只需要遵守上文提到的语义化版本规则即可。另外还有个工具叫做 <a target="_blank" rel="noopener" href="https://github.com/wbyoung/avn">avn</a>，可以自动化这个过程。</p>
