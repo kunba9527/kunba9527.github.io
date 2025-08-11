@@ -1,4 +1,8 @@
 ## My posts  
+### **2025-08** (1)  
+- 2025-08-11 [VMware直接断电系统修复2](https://kunba9527.github.io/2025/08/11/%E7%B3%BB%E7%BB%9F/Linux/Linux%E7%B3%BB%E7%BB%9F/VMware%E7%9B%B4%E6%8E%A5%E6%96%AD%E7%94%B5%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/)  
+  
+  
 ### **2024-07** (57)  
 - 2024-07-11 [VMware虚拟机安装Windows11](https://kunba9527.github.io/2024/07/11/%E7%BD%91%E7%BB%9C/%E6%9C%AC%E5%9C%B0%E6%9C%8D%E5%8A%A1/Vmware/VMware%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%AE%89%E8%A3%85Windows11/)  
 - 2024-07-11 [Win 合集](https://kunba9527.github.io/2024/07/11/%E7%B3%BB%E7%BB%9F/Win/Win%20%E5%90%88%E9%9B%86/)  
