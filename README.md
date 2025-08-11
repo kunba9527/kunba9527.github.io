@@ -1,6 +1,6 @@
 ## My posts  
 ### **2025-08** (1)  
-- 2025-08-11 [VMware直接断电系统修复2](https://kunba9527.github.io/2025/08/11/%E7%B3%BB%E7%BB%9F/Linux/Linux%E7%B3%BB%E7%BB%9F/VMware%E7%9B%B4%E6%8E%A5%E6%96%AD%E7%94%B5%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/)  
+- 2025-08-11 [VMware直接断电系统修复](https://kunba9527.github.io/2025/08/11/%E7%B3%BB%E7%BB%9F/Linux/Linux%E7%B3%BB%E7%BB%9F/VMware%E7%9B%B4%E6%8E%A5%E6%96%AD%E7%94%B5%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/)  
   
   
 ### **2024-07** (57)  
