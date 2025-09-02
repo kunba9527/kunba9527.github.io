@@ -1,6 +1,8 @@
 ## My posts  
-### **2025-08** (1)  
-- 2025-08-11 [VMware直接断电系统修复](https://kunba9527.github.io/2025/08/11/%E7%B3%BB%E7%BB%9F/Linux/Linux%E7%B3%BB%E7%BB%9F/VMware%E7%9B%B4%E6%8E%A5%E6%96%AD%E7%94%B5%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/)  
+### **2025-08** (3)  
+- 2025-08-29 [](https://kunba9527.github.io/2025/08/29/%E7%BD%91%E7%BB%9C/Github/Github%20Page/Hexo/%E5%9C%A8%20Hexo%20%E7%9A%84%20Butterfly%20%E4%B8%BB%E9%A2%98%E4%B8%AD%E9%9B%86%E6%88%90%20Qexo%20%E7%BC%96%E8%BE%91%E6%96%87%E7%AB%A0%E6%8C%89%E9%92%AE/)  
+- 2025-08-14 [Docker-esutwoprivacyidea](https://kunba9527.github.io/2025/08/14/%E7%B3%BB%E7%BB%9F/Linux/Docker-esutwoprivacyidea/)  
+- 2025-08-11 [VMware直接断电系统修复](https://kunba9527.github.io/2025/08/11/%E7%B3%BB%E7%BB%9F/Linux/VMware%E7%9B%B4%E6%8E%A5%E6%96%AD%E7%94%B5%E7%B3%BB%E7%BB%9F%E4%BF%AE%E5%A4%8D/)  
   
   
 ### **2024-07** (57)  
@@ -12,7 +14,7 @@
 - 2024-07-11 [Office非系统盘安装](https://kunba9527.github.io/2024/07/11/%E7%B3%BB%E7%BB%9F/Win/%E8%BD%AF%E4%BB%B6/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/Office%E9%9D%9E%E7%B3%BB%E7%BB%9F%E7%9B%98%E5%AE%89%E8%A3%85/)  
 - 2024-07-11 [OneNote文字样式](https://kunba9527.github.io/2024/07/11/%E7%B3%BB%E7%BB%9F/Win/%E8%BD%AF%E4%BB%B6/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/OneNote%E6%96%87%E5%AD%97%E6%A0%B7%E5%BC%8F/)  
 - 2024-07-11 [Vmware安装MacOs](https://kunba9527.github.io/2024/07/11/%E7%BD%91%E7%BB%9C/%E6%9C%AC%E5%9C%B0%E6%9C%8D%E5%8A%A1/Vmware/Vmware%E5%AE%89%E8%A3%85MacOs/)  
-- 2024-07-11 [Linux相关站点](https://kunba9527.github.io/2024/07/11/%E7%B3%BB%E7%BB%9F/Linux/Linux%E7%B3%BB%E7%BB%9F/Linux%E7%9B%B8%E5%85%B3%E7%AB%99%E7%82%B9/)  
+- 2024-07-11 [Linux相关站点](https://kunba9527.github.io/2024/07/11/%E7%B3%BB%E7%BB%9F/Linux/Linux%E7%9B%B8%E5%85%B3%E7%AB%99%E7%82%B9/)  
 - 2024-07-11 [Auto.js](https://kunba9527.github.io/2024/07/11/%E7%B3%BB%E7%BB%9F/Phone/Android/Auto.js/)  
 - 2024-07-11 [安卓 Tiktok](https://kunba9527.github.io/2024/07/11/%E7%B3%BB%E7%BB%9F/Phone/Android/%E5%AE%89%E5%8D%93%20Tiktok/)  
 - 2024-07-11 [港区Apple ID注册](https://kunba9527.github.io/2024/07/11/%E7%B3%BB%E7%BB%9F/Phone/Iphone/%E6%B8%AF%E5%8C%BAApple%20ID%E6%B3%A8%E5%86%8C/)  

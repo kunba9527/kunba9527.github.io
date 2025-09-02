@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.inFolder("pages")
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - title
+      - file.path
+    sort:
+      - property: title
+        direction: ASC
+    columnSize:
+      file.name: 259
+      note.title: 171
